@@ -404,6 +404,7 @@ ol.type li a:hover {
 }
 
 a.teach-btn {
+	text-align: center;
 	color: #7bc3d1;
 	background-color: transparent;
 	border: 1px solid #7bc3d1;
@@ -411,6 +412,7 @@ a.teach-btn {
 	padding: 1.2em 1.5em;
 	margin-top: 4em;
 	font-size: 1.25em;
+	font-weight: bold;
 }
 
 a.teach-btn:hover {
